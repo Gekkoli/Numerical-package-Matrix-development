@@ -1,4 +1,4 @@
-# MPM assessment 2
+# Linear algebra package
 
 This repository contains the material required to get you started with the
 second, and final, assessment of Modern Programming Methods. Details of the assessment and the
