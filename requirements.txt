@@ -1,0 +1,6 @@
+flake8
+pytest
+ipython
+numpy
+sphinx
+pandas

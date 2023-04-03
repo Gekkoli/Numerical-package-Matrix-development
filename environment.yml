@@ -1,0 +1,11 @@
+name: mpm_la
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - pip
+  - flake8
+  - pytest
+  - ipython
+  - numpy
